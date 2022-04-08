@@ -1,3 +1,5 @@
+https://explorer.testnet.near.org/transactions/FpKycfg52HkE9Bb5TUZ8FDuSqDycEJgnwU98kdfag6HK
+
 www.patika.dev
 
 
